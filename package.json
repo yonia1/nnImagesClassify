@@ -1,0 +1,25 @@
+{
+  "name": "nn_image_classify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imageClassify.js",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "fs": "0.0.2",
+    "mnist": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonia1/nnImagesClassify.git"
+  },
+  "author": "Yoni Amishav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonia1/nnImagesClassify/issues"
+  },
+  "homepage": "https://github.com/yonia1/nnImagesClassify#readme"
+}
